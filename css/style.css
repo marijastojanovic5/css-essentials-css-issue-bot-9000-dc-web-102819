@@ -19,5 +19,5 @@ h2 {
 
 #tasks .completed {
   background-color:  #ccc;
-  decoration: underline;
+  text-decoration:  underline;
 }
